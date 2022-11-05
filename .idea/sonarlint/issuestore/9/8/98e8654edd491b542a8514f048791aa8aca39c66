@@ -1,0 +1,18 @@
+
+{
+java:S1450"YRemove the "dateButton" field and declare it as a local variable in the relevant methods.(ˆŸªùùÿÿÿÿ8õö¶ÅÄ0
+}
+java:S1450"[Remove the "doneCheckBox" field and declare it as a local variable in the relevant methods.(§¨âŸıÿÿÿÿ8øö¶ÅÄ0
+z
+java:S1450"XRemove the "nameField" field and declare it as a local variable in the relevant methods.(¡¥‹úÿÿÿÿ8ùö¶ÅÄ0
+g
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(öúÒ£ûÿÿÿÿ8÷¶ÅÄ0
+X	java:S125!"<This block of commented-out lines of code should be removed.(ªã¬À8“÷¶ÅÄ0
+Z
+java:S1117)"8Rename "view" which hides the field declared at line 26.(Íı½şÿÿÿÿ8œ÷¶ÅÄ0
+
+java:S11862"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«û³±8Ÿ÷¶ÅÄ0
+
+java:S1186<"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(±¾ê8Ÿ÷¶ÅÄ0
+I
+java:S1602J",Remove useless curly braces around statement(’£˜¦8¤÷¶ÅÄ0
